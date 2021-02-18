@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="17c82ff3-e988-42c1-a59b-64a39a61ec86" name="디폴트 변경 목록" comment="addProject">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/WebAppTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0118/com/java/first/CheckPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0118/com/java/first/CircleArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0118/com/java/first/Compute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0118/com/ssafy/ws01/step3/DigitTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0118/com/ssafy/ws01/step3/DigitTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0118/com/ssafy/ws01/step3/GameTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0119/com/ssafy/algo/DigitTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0120/LottoGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0120/Solution22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0121/AbcDigital/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0121/AbcDigital/RefrigModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0121/AbcDigital/TvModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0121/com/ssafy/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0121/com/ssafy/BookManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0121/com/ssafy/BookTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0121/haksaSystem/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0121/haksaSystem/StudentManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0121/haksaSystem/StudentMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0121/haksaSystem/StudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0126/student/CS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0126/student/DuplicateException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0126/student/ICE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0126/student/NotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0126/student/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0126/student/StudentApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0126/student/StudentMgr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0126/student/StudentMgrInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0202/Prob1954.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0205/계산기2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0209/색종이.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0210/순열.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0211/카드게임.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0215/Baekjoon2961.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0216/Prob5215.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookProject/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookProject/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookProject/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookProject/book.cld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookProject/book.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookProject/src/com/ssafy/ws08/step3/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookProject/src/com/ssafy/ws08/step3/BookManagerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookProject/src/com/ssafy/ws08/step3/BookTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookProject/src/com/ssafy/ws08/step3/IBookManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookProject/src/com/ssafy/ws08/step3/ISBNNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookProject/src/com/ssafy/ws08/step3/Magazine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookProject/src/com/ssafy/ws08/step3/QuantityException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baekjoon/b0210/Baekjoon1244.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baekjoon/b0210/Baekjoon17478.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baekjoon/b0210/배열돌리기1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baekjoon/b0210/백준카드2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baekjoon/b0210/요세푸스.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baekjoon/b0210/일곱난쟁이.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baekjoon/b0215/Baek15649.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baekjoon/b0215/Baek15650.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baekjoon/b0215/Baek15651.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baekjoon/b0216/Baek1931.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baekjoon/b0217/Baekjoon2468.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baekjoon/b0217/Baekjoon2667.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baekjoon/b0217/Baekjoon4963.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ssafy/AnonymousFolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ssafy/BufferPerformanceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ssafy/FileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ssafy/Folder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ssafy/GenericContainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ssafy/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ssafy/StaticBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ssafy/StaticBlockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ssafy/StringConcatTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ssafy/StringContainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ssafy/divide/D2_BinarySearchTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ssafy/divide/SquareNumberTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ssafy/exhaustive/A2_TransposeMatrixTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ssafy/exhaustive/C2_NextPermutationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ssafy/exhaustive/CombinationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ssafy/exhaustive/DiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ssafy/exhaustive/P2_BitOperatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ssafy/exhaustive/P3_PermutationBitmaskTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ssafy/exhaustive/P4_PermutationNPTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ssafy/exhaustive/PermutationTst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ssafy/exhaustive/S2_BinaryCountingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ssafy/io/IO2_ScannerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ssafy/io/IO3_ScannerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ssafy/io/IO4_BufferedReaderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ssafy/linkedlist/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ssafy/linkedlist/SinglyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ssafy/linkedlist/SinglyLinkedListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ssafy/queue/Q1_QueueAPITest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ssafy/queue/Q2_MyChew.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ssafy/recursive/R1_FactorialTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ssafy/recursive/R2_ArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ssafy/recursive/R3_HanoiTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ssafy/sort/C1_SortTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ssafy/sort/C2_SortTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ssafy/sort/PriorityQueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ssafy/sort/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ssafy/subset/S1_SubSetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ssafy/subset/S2_SubsetSumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ssafy/subset/S3_StackAPITest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ssafy/subset/St2_Browser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ssafy/tree/CompleteBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ssafy/tree/CompleteBinaryTreeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ssafy/부분집합.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jungol/Jungol1828.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab/ssafy/corona/OuterPhoneStatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab/ssafy/corona/PhoneTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab/ssafy/corona/app/CoronaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab/ssafy/corona/app/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab/ssafy/corona/medical/CDC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab/ssafy/corona/medical/Hospital.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab/ssafy/corona/medical/MedicalAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab/ssafy/corona/medical/Organization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab/ssafy/corona/person/Doctor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab/ssafy/corona/person/Patient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab/ssafy/corona/person/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab/ssafy/corona/test/OA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab/ssafy/corona/test/OB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab/ssafy/corona/virus/Corona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab/ssafy/corona/virus/Virus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/baekjoon/Baek1592.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/baekjoon/Baek2567.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/baekjoon/Baek2798.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/baekjoon/Baek2804.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/baekjoon/Baek2941.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/swexpertacademy/Prob1204.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/swexpertacademy/Prob1209.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/swexpertacademy/Prob1213.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/swexpertacademy/Prob1221.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/swexpertacademy/Prob1234.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/swexpertacademy/Prob1284.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/swexpertacademy/Prob1288.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/swexpertacademy/Prob1545.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/swexpertacademy/Prob1928.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/swexpertacademy/Prob1933.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/swexpertacademy/Prob1936.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/swexpertacademy/Prob1938.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/swexpertacademy/Prob1940.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/swexpertacademy/Prob1945.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/swexpertacademy/Prob1948.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/swexpertacademy/Prob1959.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/swexpertacademy/Prob1961.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/swexpertacademy/Prob1966.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/swexpertacademy/Prob1976.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/swexpertacademy/Prob1979.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/swexpertacademy/Prob1986.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/swexpertacademy/Prob1989.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/swexpertacademy/Prob2007.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/swexpertacademy/Prob2019.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/swexpertacademy/Prob2025.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/swexpertacademy/Prob2027.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/swexpertacademy/Prob2029.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/swexpertacademy/Prob2043.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/swexpertacademy/Prob2046.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/swexpertacademy/Prob2047.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/swexpertacademy/Prob2050.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/swexpertacademy/Prob2056.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/swexpertacademy/Prob2058.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/swexpertacademy/Prob2063.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/swexpertacademy/Prob2068.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/swexpertacademy/Prob2070.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/swexpertacademy/Prob2071.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/swexpertacademy/Prob2072.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/swexpertacademy/Prob4615.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/swexpertacademy/Prob7272.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swea/d0210/DeltaSeek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swea/d0210/Flatten.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swea/d0210/Ladder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swea/d0210/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swea/d0210/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swea/d0210/swea민석이의과제.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swea/d0210/swea상호의배틀필드.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swea/d0210/swea스도쿠.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swea/d0210/괄호짝짓기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swea/d0210/농장.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swea/d0210/배필2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swea/d0210/설탕배달.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swea/d0210/암호문1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swea/d0210/암호생성기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swea/d0210/정사각형방.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swea/d0210/중간값.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swea/d0210/진기의붕어빵.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swea/d0210/최적경로.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swea/d0210/파리퇴치.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swea/d0210/퍼펙트셔플.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swea/d0210/한빈이.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workspace.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1odLaC9PFZFbsaDyhWeF8gKDSwP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="17c82ff3-e988-42c1-a59b-64a39a61ec86" name="디폴트 변경 목록" comment="" />
+      <created>1613611581704</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613611581704</updated>
+      <workItem from="1613611583016" duration="94000" />
+      <workItem from="1613611708596" duration="322000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="addProject" />
+    <option name="LAST_COMMIT_MESSAGE" value="addProject" />
+  </component>
+</project>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/0118" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0119" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0120" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0121" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0122" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0126" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0202" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0205" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0209" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0210" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0211" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0215" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0216" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/0122/AbcDigitalProduct" />
+      <excludeFolder url="file://$MODULE_DIR$/0129" />
+      <excludeFolder url="file://$MODULE_DIR$/0126/AbcDigitalProductExtends" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
