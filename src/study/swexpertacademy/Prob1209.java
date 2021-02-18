@@ -1,4 +1,4 @@
-package ssafy;
+package study.swexpertacademy;
 
 import java.util.Scanner;
 
