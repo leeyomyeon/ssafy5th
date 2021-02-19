@@ -51,7 +51,41 @@ public class Prob4615 {
     public static void othello(int p, int q, int r) {
         for(int j = 0; j < move.length; j++) {
             for(int k = 0; k < move.length; k++) {
-                
+                int np = p;
+                int nq = q;
+                np += move[j];
+                nq += move[k];
+                if(r == 1 && np >= 0 && nq >= 0 && np < n && nq < n) {
+                    if(arr[np][nq] == 2) {
+                        while(true) {
+                            np += move[j];
+                            nq += move[k];
+                            if(arr[np][nq] == 2 && np >= 0 && nq >= 0 && np < n && nq < n) {
+                                for(int i = p; i < np; i++) {
+                                    for(int l = q; l < nq; l++) {
+                                        arr[i][l] = 1;
+                                    }
+                                }
+                                break;
+                            }
+                        }
+                    }
+                } else if (r == 2 && np >= 0 && nq >= 0 && np < n && nq < n) {
+                    if(arr[np][nq] == 1) {
+                        while(true) {
+                            np += move[j];
+                            nq += move[k];
+                            if(arr[np][nq] == 1 && np >= 0 && nq >= 0 && np < n && nq < n) {
+                                for(int i = p; i < np; i++) {
+                                    for(int l = q; l < nq; l++) {
+                                        arr[i][l] = 2;
+                                    }
+                                }
+                                break;
+                            }
+                        }
+                    }
+                }
             }
         }
     }
