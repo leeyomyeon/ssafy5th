@@ -8,6 +8,7 @@ public interface IBookManager {
 	 * 도서를 도서리스트에 추가한다.
 	 * @param book : 추가할 도서
 	 */
+
 	void add(Book book);
 	/**
 	 * 고유번호로 해당 도서를 도서리스트에서 삭제한다.

@@ -1,10 +1,12 @@
 package com.ssafy.ws08.step3;
 
+import java.io.Serializable;
+
 /**
  * 도서 정보를 나타내는 클래스
  */
 //
-public class Book  {	// 객체 직렬화 가능하도록  Serializable 인터페이스 구현
+public class Book implements Serializable {	// 객체 직렬화 가능하도록  Serializable 인터페이스 구현
 	/** 고유 번호 */
 	private String isbn;		
 	/**	제목 */
@@ -20,6 +22,9 @@ public class Book  {	// 객체 직렬화 가능하도록  Serializable 인터페
 	/** 재고 수량 */
 	private int quantity;
 
+	public Book() {
+
+	}
 	/** 도서 정보를 모두 받아 생성하는 생성자 */
 	public Book(String isbn, String title, String author, String publisher, int price, String desc,int quantity){
 		// 받은 정보로 객체의 상태를 초기화한다.

@@ -15,6 +15,8 @@ public class Magazine extends Book {
 	
 	/** 기본 생성자 */
 	public Magazine() {
+		super();
+
 	}
 	/** 잡지 정보 모두를 받아 생성하는 생성자 */
 	public Magazine(String isbn, String title, String author, String publisher, int price, String desc, int year, int month,int quantity) {
