@@ -8,7 +8,7 @@ public class BookTest {
 	public static void main(String[] args) {
 		
 		// 도서 리스트를 유지하고 관리하는 BookManager 객체를 생성한다.
-		IBookManager bookManager = BookManagerImpl.getInstance();
+		BookManagerImpl bookManager = BookManagerImpl.getInstance();
 		
 		System.out.println("**********************불러온 도서 전체 목록**********************");
 		Book[] books = bookManager.getList();

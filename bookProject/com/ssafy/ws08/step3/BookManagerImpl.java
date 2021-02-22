@@ -1,7 +1,9 @@
 package com.ssafy.ws08.step3;
 
+import java.io.*;
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.Comparator;
 import java.util.List;
 
 /**
@@ -14,22 +16,29 @@ public class BookManagerImpl implements IBookManager {
 	private List<Book> books = null; // 배열 대신 List유형의 컬렉션 사용
 	
 	/**
-	 * 싱글톤 디자인패언 위해 유지하는 객체 참조값 
+	 * 싱글톤 디자인패언 위해 유지하는 객체 참조값
 	 * 클래스 메로리에 로드시에 객체 1번 생성하여 참조값 유지
 	 */
+	private static BookManagerImpl instance;
+	public static BookManagerImpl getInstance() {
+		if(instance == null) {
+			instance = new BookManagerImpl();
+		}
+		return instance;
+	}
+
 	/**
 	 * 기본 생성자
 	 */
 	private BookManagerImpl() { // 외부에서 객체 생성을 하지 못하도록 접근 제어자를  private으로 만든 생성자
-		loadData();				// 객체 생성시 기존에 저장된 데이터를 로드한다. 
+		loadData();
+		// 객체 생성시 기존에 저장된 데이터를 로드한다.
 	}
 	/**
 	 * 내부에서 생성한 객체의 참조값을 반환한다.
 	 * @return 생성된 객체의 참조값
 	 */
-//	public static IBookManager getInstance() {
-//		return instance;
-//	}
+
 
 	/**
 	 * 도서를 도서리스트에 추가한다.
@@ -98,11 +107,11 @@ public class BookManagerImpl implements IBookManager {
 	@Override
 	public Magazine[] getMagazines() {
 		// 잡지의 개수를 알 수 없으므로 컬렉션을 활용하여 저장 후 마지막에 배열로 바꾸어 반환한다.
-		ArrayList<Magazine> temp = new ArrayList<Magazine>();
+		ArrayList<com.ssafy.ws08.step3.Magazine> temp = new ArrayList<com.ssafy.ws08.step3.Magazine>();
 		for (Book book : books) {
-			if(book  instanceof Magazine) temp.add((Magazine)book);
+			if(book  instanceof com.ssafy.ws08.step3.Magazine) temp.add((com.ssafy.ws08.step3.Magazine)book);
 		}		
-		Magazine[] result = new Magazine[temp.size()];  // 조회 결과를 담은 컬렉션의 크기를 활용하여 배열 생성
+		com.ssafy.ws08.step3.Magazine[] result = new com.ssafy.ws08.step3.Magazine[temp.size()];  // 조회 결과를 담은 컬렉션의 크기를 활용하여 배열 생성
 		return temp.toArray(result); 					// 컬랙션의 내용을 배열로 복사 후 리턴
 	} 	
 	/**
@@ -112,9 +121,9 @@ public class BookManagerImpl implements IBookManager {
 	@Override
 	public Book[] getBooks() {
 		// 일반 도서의 개수를 알 수 없으므로 컬렉션을 활용하여 저장 후 마지막에 배열로 바꾸어 반환한다.
-		ArrayList<Book> temp = new ArrayList<Book>();
+		ArrayList<Book> temp = new ArrayList<>();
 		for (Book book : books) {
-			if(!(book  instanceof Magazine)) temp.add(book);
+			if(!(book  instanceof com.ssafy.ws08.step3.Magazine)) temp.add(book);
 		}
 		Book[] result = new Book[temp.size()];	// 조회 결과를 담은 컬렉션의 크기를 활용하여 배열 생성
 		return temp.toArray(result); 			// 컬랙션의 내용을 배열로 복사 후 리턴
@@ -165,8 +174,13 @@ public class BookManagerImpl implements IBookManager {
 	@Override
 	public void buy(String isbn, int quantity) {
 		Book book = searchByIsbn(isbn);						// 고유번호 도서 조회
-		if(book == null) throw new ISBNNotFoundException(isbn); // 고유번호 도서 조회 실패시 ISBNNotFoundException 사용자 정의 예외 발생시킴
-		
+		if(book == null)
+			try {
+				throw new ISBNNotFoundException(isbn); // 고유번호 도서 조회 실패시 ISBNNotFoundException 사용자 정의 예외 발생시킴
+			} catch (ISBNNotFoundException e) {
+				e.printStackTrace();
+			}
+
 		book.setQuantity(book.getQuantity() + quantity);	// 구매 후의 새로운 재고 수량 계산하여 재고 수량 변경 
 	}
 	/**
@@ -176,7 +190,7 @@ public class BookManagerImpl implements IBookManager {
 		File f = new File("book.dat");
 		if(f.exists()) {	// 파일이 존재하면 파일에서 데이터 읽기
 			// 파일에서 읽어오기 위해 FileInputStream을 생성 후 저장된 도서리스트 객체를 읽어오기 위해 ObjectInputStream을 생성한다.
-			try(ObjectInputStream in  = new ObjectInputStream(new FileInputStream(f))){	
+			try(ObjectInputStream in  = new ObjectInputStream(new FileInputStream(f))){
 				books = (ArrayList<Book>) in.readObject();			// 도서리스트 객체를 파일에서 읽어오기			
 			} catch (Exception e) {
 				System.out.println("[SYSTEM]파일 읽기에 실패하였습니다.");
@@ -189,8 +203,7 @@ public class BookManagerImpl implements IBookManager {
 	/**
 	 * 도서리스트를 파일에 저장한다.
 	 */
-	@Override
-	public void saveData(String name) {
+	public void saveData() {
 		// 파일에  저장하기 위해 FileOutputStream을 생성 후 도서리스트 객체를 저장하기 위해 ObjectOutputStream을 생성한다.
 		try(ObjectOutputStream out  = new ObjectOutputStream(new FileOutputStream("book.dat"))){
 			out.writeObject(books);	// 도서리스트 객체를 파일에 저장하기				
@@ -205,11 +218,10 @@ public class BookManagerImpl implements IBookManager {
 	@Override
 	public void sortList() {
 		
-		Collections.sort(books, new Comparable<Book>() {
+		Collections.sort(books, new Comparator<Book>() {
 
 			@Override
-			public int compareTo(Book o1, Book o2) {
-				// TODO Auto-generated method stub
+			public int compare(Book o1, Book o2) {
 				return o1.getPrice() - o2.getPrice();
 			}
 		});
