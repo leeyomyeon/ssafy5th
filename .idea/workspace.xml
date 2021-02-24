@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17c82ff3-e988-42c1-a59b-64a39a61ec86" name="디폴트 변경 목록" comment="new File">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bookProject/src/com/ssafy/ws08/step3/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/bookProject/com/ssafy/ws08/step3/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bookProject/src/com/ssafy/ws08/step3/BookManagerImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/bookProject/com/ssafy/ws08/step3/BookManagerImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bookProject/src/com/ssafy/ws08/step3/BookTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/bookProject/com/ssafy/ws08/step3/BookTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bookProject/src/com/ssafy/ws08/step3/IBookManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/bookProject/com/ssafy/ws08/step3/IBookManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bookProject/src/com/ssafy/ws08/step3/ISBNNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/bookProject/com/ssafy/ws08/step3/ISBNNotFoundException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bookProject/src/com/ssafy/ws08/step3/Magazine.java" beforeDir="false" afterPath="$PROJECT_DIR$/bookProject/com/ssafy/ws08/step3/Magazine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bookProject/src/com/ssafy/ws08/step3/QuantityException.java" beforeDir="false" afterPath="$PROJECT_DIR$/bookProject/com/ssafy/ws08/step3/QuantityException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/workspace/Baekjoon3109.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/workspace/baekjoon/b0219/Baekjoon17136_1.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/workspace.iml" beforeDir="false" afterPath="$PROJECT_DIR$/workspace.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,6 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Tag Library Descriptor" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -43,7 +37,9 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="1odLaC9PFZFbsaDyhWeF8gKDSwP" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
@@ -52,21 +48,33 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="deletionFromPopupRequiresConfirmation" value="false" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/bookProject" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="SDK" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.27011493" />
+    <property name="settings.editor.selected.configurable" value="profiler.jvm" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/0223/com/ssafy/weather" />
+      <recent name="$PROJECT_DIR$/src/lab/ssafy/corona/xml" />
+      <recent name="$PROJECT_DIR$/src/lab/ssafy/corona" />
+      <recent name="$PROJECT_DIR$/0129/student" />
+      <recent name="$PROJECT_DIR$/0128" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.BookTest">
-    <configuration name="Baek11399" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study.baekjoon.Baek11399" />
+  <component name="RunManager" selected="애플리케이션.NewsMain">
+    <configuration name="NetworkHttpServerHospital" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab.ssafy.browser.NetworkHttpServerHospital" />
       <module name="workspace" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="study.baekjoon.*" />
+          <option name="PATTERN" value="lab.ssafy.browser.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baek17413" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study.baekjoon.Baek17413" />
+    <configuration name="NewsMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="news.NewsMain" />
       <module name="workspace" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="study.baekjoon.*" />
+          <option name="PATTERN" value="news.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baek8320" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study.baekjoon.Baek8320" />
+    <configuration name="SimpleSwingTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab.ssafy.corona.app.SimpleSwingTest" />
       <module name="workspace" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="study.baekjoon.*" />
+          <option name="PATTERN" value="lab.ssafy.corona.app.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BookTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ssafy.ws08.step3.BookTest" />
+    <configuration name="VirusReportDomTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab.ssafy.corona.app.VirusReportDomTest" />
       <module name="workspace" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ssafy.ws08.step3.*" />
+          <option name="PATTERN" value="lab.ssafy.corona.app.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,39 +121,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Prob4615" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study.swexpertacademy.Prob4615" />
+    <configuration name="VirusReportSaxTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab.ssafy.corona.app.VirusReportSaxTest" />
       <module name="workspace" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="study.swexpertacademy.*" />
+          <option name="PATTERN" value="lab.ssafy.corona.app.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.BookTest" />
-        <item itemvalue="애플리케이션.Baek8320" />
-        <item itemvalue="애플리케이션.Baek17413" />
-        <item itemvalue="애플리케이션.Baek11399" />
-        <item itemvalue="애플리케이션.Prob4615" />
+        <item itemvalue="애플리케이션.NewsMain" />
+        <item itemvalue="애플리케이션.VirusReportDomTest" />
+        <item itemvalue="애플리케이션.VirusReportSaxTest" />
+        <item itemvalue="애플리케이션.SimpleSwingTest" />
+        <item itemvalue="애플리케이션.NetworkHttpServerHospital" />
       </list>
     </recent_temporary>
   </component>
@@ -162,6 +157,12 @@
       <workItem from="1613693124835" duration="18548000" />
       <workItem from="1613845282287" duration="8617000" />
       <workItem from="1613926724793" duration="1949000" />
+      <workItem from="1614038880223" duration="3165000" />
+      <workItem from="1614052248433" duration="2747000" />
+      <workItem from="1614069339200" duration="3557000" />
+      <workItem from="1614124903255" duration="1333000" />
+      <workItem from="1614128587826" duration="440000" />
+      <workItem from="1614130713409" duration="115000" />
     </task>
     <task id="LOCAL-00001" summary="addProject">
       <created>1613612131324</created>
@@ -219,7 +220,8 @@
     <MESSAGE value="addProject" />
     <MESSAGE value="modified package name" />
     <MESSAGE value="new File" />
-    <option name="LAST_COMMIT_MESSAGE" value="new File" />
+    <MESSAGE value="update file" />
+    <option name="LAST_COMMIT_MESSAGE" value="update file" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -260,6 +262,10 @@
           <line>193</line>
           <option name="timeStamp" value="46" />
         </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.io.WriteAbortedException" package="java.io" />
+          <option name="timeStamp" value="47" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
@@ -267,6 +273,10 @@
         <watch expression="(int) Math.sqrt((double) 9);" language="JAVA" />
       </configuration>
     </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/workspace$Baek17413.ic" NAME="Baek17413 커버리지 결과" MODIFIED="1613852697487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
