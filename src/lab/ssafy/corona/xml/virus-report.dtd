@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <!ELEMENT virus-report (author, about,date)>
+        <!ELEMENT date (year,month,day)>
+        <!ELEMENT author (#PCDATA)>
+        <!ELEMENT about (#PCDATA)>
+        <!ELEMENT year (#PCDATA)>
+        <!ELEMENT month (#PCDATA)>
+        <!ELEMENT day (#PCDATA)>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE virus-report SYSTEM "virus-report.dtd">
+<virus-report>
+    <author>SSAFY</author>
+    <about>COVID-19</about>
+    <date>
+    <year>2020</year>
+    <month>03</month>
+    <day>26</day>
+    </date>
+</virus-report>

@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17c82ff3-e988-42c1-a59b-64a39a61ec86" name="디폴트 변경 목록" comment="new File">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/workspace.iml" beforeDir="false" afterPath="$PROJECT_DIR$/workspace.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,13 +66,13 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.NewsMain">
-    <configuration name="NetworkHttpServerHospital" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab.ssafy.browser.NetworkHttpServerHospital" />
+  <component name="RunManager">
+    <configuration name="Baek10163" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.baekjoon.Baek10163" />
       <module name="workspace" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab.ssafy.browser.*" />
+          <option name="PATTERN" value="study.baekjoon.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,65 +80,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NewsMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="news.NewsMain" />
-      <module name="workspace" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="news.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SimpleSwingTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab.ssafy.corona.app.SimpleSwingTest" />
-      <module name="workspace" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lab.ssafy.corona.app.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="VirusReportDomTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab.ssafy.corona.app.VirusReportDomTest" />
-      <module name="workspace" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lab.ssafy.corona.app.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="VirusReportSaxTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab.ssafy.corona.app.VirusReportSaxTest" />
-      <module name="workspace" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lab.ssafy.corona.app.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.NewsMain" />
-        <item itemvalue="애플리케이션.VirusReportDomTest" />
-        <item itemvalue="애플리케이션.VirusReportSaxTest" />
-        <item itemvalue="애플리케이션.SimpleSwingTest" />
-        <item itemvalue="애플리케이션.NetworkHttpServerHospital" />
+        <item itemvalue="애플리케이션.Baek10163" />
       </list>
     </recent_temporary>
   </component>
@@ -163,6 +116,8 @@
       <workItem from="1614124903255" duration="1333000" />
       <workItem from="1614128587826" duration="440000" />
       <workItem from="1614130713409" duration="115000" />
+      <workItem from="1614133519630" duration="37000" />
+      <workItem from="1614272945160" duration="2004000" />
     </task>
     <task id="LOCAL-00001" summary="addProject">
       <created>1613612131324</created>
@@ -192,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613853887195</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="new File">
+      <created>1614133540897</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1614133540897</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -219,9 +181,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="addProject" />
     <MESSAGE value="modified package name" />
-    <MESSAGE value="new File" />
     <MESSAGE value="update file" />
-    <option name="LAST_COMMIT_MESSAGE" value="update file" />
+    <MESSAGE value="new File" />
+    <option name="LAST_COMMIT_MESSAGE" value="new File" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -268,11 +230,6 @@
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="(int) Math.sqrt((double) 9);" language="JAVA" />
-      </configuration>
-    </watches-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
