@@ -3,6 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="17c82ff3-e988-42c1-a59b-64a39a61ec86" name="디폴트 변경 목록" comment="new File">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0120/Solution22.java" beforeDir="false" afterPath="$PROJECT_DIR$/0120/Solution22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0216/Prob5215.java" beforeDir="false" afterPath="$PROJECT_DIR$/0216/Prob5215.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/workspace/Prob5215.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/workspace/Prob5215.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/workspace/Solution22.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/workspace/Solution22.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/swea/d0210/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/swea/d0210/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/swea/d0210/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/swea/d0210/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/swea/d0210/설탕배달.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/baekjoon/Baekjoon2839.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,6 +18,9 @@
   </component>
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -66,48 +76,9 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.Baek14891">
-    <configuration name="Baek13458" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study.baekjoon.Baek13458" />
-      <module name="workspace" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="study.baekjoon.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Baek14501" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study.baekjoon.Baek14501" />
-      <module name="workspace" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="study.baekjoon.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="애플리케이션.swea스도쿠">
     <configuration name="Baek14888" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="study.baekjoon.Baek14888" />
-      <module name="workspace" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="study.baekjoon.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Baek14889" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study.baekjoon.Baek14889" />
       <module name="workspace" />
       <extension name="coverage">
         <pattern>
@@ -132,26 +103,57 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration name="Baek20055" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.baekjoon.Baek20055" />
+      <module name="workspace" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="study.baekjoon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution22" />
+      <module name="workspace" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="swea스도쿠" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="swea.d0210.swea스도쿠" />
+      <module name="workspace" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="baekjoon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.swea스도쿠" />
+        <item itemvalue="애플리케이션.Baek20055" />
+        <item itemvalue="애플리케이션.Solution22" />
         <item itemvalue="애플리케이션.Baek14891" />
         <item itemvalue="애플리케이션.Baek14888" />
-        <item itemvalue="애플리케이션.Baek14889" />
-        <item itemvalue="애플리케이션.Baek14501" />
-        <item itemvalue="애플리케이션.Baek13458" />
       </list>
     </recent_temporary>
   </component>
@@ -181,7 +183,11 @@
       <workItem from="1614761699310" duration="6402000" />
       <workItem from="1614853834496" duration="3421000" />
       <workItem from="1615109827438" duration="2151000" />
-      <workItem from="1615198904857" duration="5657000" />
+      <workItem from="1615198904857" duration="5680000" />
+      <workItem from="1615264404855" duration="5109000" />
+      <workItem from="1615276797776" duration="5913000" />
+      <workItem from="1615311943684" duration="18000" />
+      <workItem from="1615361250114" duration="1655000" />
     </task>
     <task id="LOCAL-00001" summary="addProject">
       <created>1613612131324</created>
@@ -239,7 +245,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615109854349</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="new File">
+      <created>1615205235550</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1615205235550</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

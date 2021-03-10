@@ -1,8 +1,8 @@
-package swea.d0210;
+package baekjoon;
 
 import java.util.Scanner;
 
-public class 설탕배달 {
+public class Baekjoon2839 {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		

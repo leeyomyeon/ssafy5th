@@ -1,7 +1,7 @@
 package swea.d0210;
 
 import java.util.Scanner;
-
+// 햄버거 다이어트
 public class Solution {
     static int N; // 재료의 수
     static int limit; // 칼로리 리미트

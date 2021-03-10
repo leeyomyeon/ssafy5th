@@ -14,7 +14,6 @@ public class Prob5215 {
     static int n;
     static int maxCal;
     static ingredient[] ingredients;
-    private static boolean[] selected;
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -25,7 +24,7 @@ public class Prob5215 {
             n = scanner.nextInt();
             maxCal = scanner.nextInt();
 
-            selected = new boolean[n];
+            boolean[] selected = new boolean[n];
             ingredients = new ingredient[n];
             maxScore = 0;
 

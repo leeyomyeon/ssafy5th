@@ -11,7 +11,6 @@ public class Solution22 {
             int num = scanner.nextInt();
 
             int[][] arr = new int[num][3];
-            int answer = 0;
 
             for(int j = 0; j < num; j++) {
                 arr[j][0] = scanner.nextInt();

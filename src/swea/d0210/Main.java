@@ -1,7 +1,7 @@
 package swea.d0210;
 
 import java.util.Scanner;
-
+// 원재의 메모리 복구
 public class Main {
     public static void main(String[] args) throws Exception {
         Scanner sc = new Scanner(System.in);
