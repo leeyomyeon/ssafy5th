@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17c82ff3-e988-42c1-a59b-64a39a61ec86" name="디폴트 변경 목록" comment="new File">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/workspace/swea/d0210/설탕배달.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/workspace.iml" beforeDir="false" afterPath="$PROJECT_DIR$/workspace.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/workspace/JDBCTest/JDBCInsertTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/workspace/JDBCTest/JDBCInsertTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/workspace/JDBCTest/JDBCTest1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/workspace/JDBCTest/JDBCTest1.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,13 +75,27 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.JDBCInsertTest">
-    <configuration name="Baek14499" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study.baekjoon.Baek14499" />
+  <component name="RunManager" selected="애플리케이션.파이프옮기기">
+    <configuration name="안전영역" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="안전영역" />
+      <module name="workspace" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="파이프옮기기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="파이프옮기기" />
+      <module name="workspace" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Contact" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="swea.d0316.Contact" />
       <module name="workspace" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="study.baekjoon.*" />
+          <option name="PATTERN" value="swea.d0316.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baek20055" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study.baekjoon.Baek20055" />
+    <configuration name="G1_AdjMatrixTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ssafy.graph.G1_AdjMatrixTest" />
       <module name="workspace" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="study.baekjoon.*" />
+          <option name="PATTERN" value="com.ssafy.graph.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,38 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JDBCInsertTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JDBCTest.JDBCInsertTest" />
+    <configuration name="G2_AdjListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ssafy.graph.G2_AdjListTest" />
       <module name="workspace" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JDBCTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JDBCTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JDBCTest.JDBCTest1" />
-      <module name="workspace" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JDBCTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="swea스도쿠" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="swea.d0210.swea스도쿠" />
-      <module name="workspace" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="baekjoon.*" />
+          <option name="PATTERN" value="com.ssafy.graph.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.JDBCInsertTest" />
-        <item itemvalue="애플리케이션.JDBCTest1" />
-        <item itemvalue="애플리케이션.Baek14499" />
-        <item itemvalue="애플리케이션.swea스도쿠" />
-        <item itemvalue="애플리케이션.Baek20055" />
+        <item itemvalue="애플리케이션.파이프옮기기" />
+        <item itemvalue="애플리케이션.안전영역" />
+        <item itemvalue="애플리케이션.G2_AdjListTest" />
+        <item itemvalue="애플리케이션.G1_AdjMatrixTest" />
+        <item itemvalue="애플리케이션.Contact" />
       </list>
     </recent_temporary>
   </component>
@@ -198,6 +185,11 @@
       <workItem from="1615389361780" duration="5290000" />
       <workItem from="1615433731301" duration="3754000" />
       <workItem from="1615440630131" duration="296000" />
+      <workItem from="1615637874738" duration="1724000" />
+      <workItem from="1615735518746" duration="1208000" />
+      <workItem from="1615790748782" duration="5117000" />
+      <workItem from="1615860471031" duration="8217000" />
+      <workItem from="1615895872167" duration="4190000" />
     </task>
     <task id="LOCAL-00001" summary="addProject">
       <created>1613612131324</created>
@@ -269,7 +261,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615363218139</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="new File">
+      <created>1615637922749</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1615637922749</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -349,6 +348,12 @@
           <url>file://$PROJECT_DIR$/src/study/baekjoon/Baek14891.java</url>
           <line>38</line>
           <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="i == 2 &amp;&amp; j == 0" language="JAVA" />
+          <url>file://$PROJECT_DIR$/src/study/baekjoon/Baek15683.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="73" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.io.WriteAbortedException" package="java.io" />
