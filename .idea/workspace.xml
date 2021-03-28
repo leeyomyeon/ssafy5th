@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="17c82ff3-e988-42c1-a59b-64a39a61ec86" name="디폴트 변경 목록" comment="new File">
+    <list default="true" id="17c82ff3-e988-42c1-a59b-64a39a61ec86" name="디폴트 변경 목록" comment="Add to Adjust Matrix, List">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/workspace/JDBCTest/JDBCInsertTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/workspace/JDBCTest/JDBCInsertTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/workspace/JDBCTest/JDBCTest1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/workspace/JDBCTest/JDBCTest1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/workspace/com/ssafy/graph/G2_AdjListTest$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/workspace/com/ssafy/graph/G2_AdjListTest$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/workspace/com/ssafy/graph/G2_AdjListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/workspace/com/ssafy/graph/G2_AdjListTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ssafy/graph/G2_AdjListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ssafy/graph/G2_AdjListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/workspace.iml" beforeDir="false" afterPath="$PROJECT_DIR$/workspace.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,12 +59,13 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="deletionFromPopupRequiresConfirmation" value="false" />
+    <property name="last.edited.regexp" value="&quot;AaTa+!12-3&quot;" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/bookProject" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="라이브러리" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.27011493" />
-    <property name="settings.editor.selected.configurable" value="profiler.jvm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -75,27 +79,13 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.파이프옮기기">
-    <configuration name="안전영역" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="안전영역" />
-      <module name="workspace" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="파이프옮기기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="파이프옮기기" />
-      <module name="workspace" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Contact" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="swea.d0316.Contact" />
+  <component name="RunManager" selected="애플리케이션.Prob1949">
+    <configuration name="Baek1439" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.baekjoon.Baek1439" />
       <module name="workspace" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="swea.d0316.*" />
+          <option name="PATTERN" value="study.baekjoon.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,8 +93,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="G1_AdjMatrixTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ssafy.graph.G1_AdjMatrixTest" />
+    <configuration name="Baek2225" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.baekjoon.Baek2225" />
+      <module name="workspace" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="study.baekjoon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Baekjoon17472" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon.b0326.Baekjoon17472" />
+      <module name="workspace" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="baekjoon.b0326.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrimTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ssafy.graph.PrimTest" />
       <module name="workspace" />
       <extension name="coverage">
         <pattern>
@@ -116,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="G2_AdjListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ssafy.graph.G2_AdjListTest" />
+    <configuration name="Prob1949" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.swexpertacademy.Prob1949" />
       <module name="workspace" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ssafy.graph.*" />
+          <option name="PATTERN" value="study.swexpertacademy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.파이프옮기기" />
-        <item itemvalue="애플리케이션.안전영역" />
-        <item itemvalue="애플리케이션.G2_AdjListTest" />
-        <item itemvalue="애플리케이션.G1_AdjMatrixTest" />
-        <item itemvalue="애플리케이션.Contact" />
+        <item itemvalue="애플리케이션.Prob1949" />
+        <item itemvalue="애플리케이션.Baek2225" />
+        <item itemvalue="애플리케이션.Baekjoon17472" />
+        <item itemvalue="애플리케이션.PrimTest" />
+        <item itemvalue="애플리케이션.Baek1439" />
       </list>
     </recent_temporary>
   </component>
@@ -189,7 +205,20 @@
       <workItem from="1615735518746" duration="1208000" />
       <workItem from="1615790748782" duration="5117000" />
       <workItem from="1615860471031" duration="8217000" />
-      <workItem from="1615895872167" duration="4190000" />
+      <workItem from="1615895872167" duration="6296000" />
+      <workItem from="1616026148209" duration="3009000" />
+      <workItem from="1616061340918" duration="3427000" />
+      <workItem from="1616212487733" duration="5918000" />
+      <workItem from="1616221190873" duration="6618000" />
+      <workItem from="1616374849817" duration="8986000" />
+      <workItem from="1616477502751" duration="6926000" />
+      <workItem from="1616544248681" duration="16988000" />
+      <workItem from="1616578854350" duration="2878000" />
+      <workItem from="1616630698471" duration="8564000" />
+      <workItem from="1616717144932" duration="22856000" />
+      <workItem from="1616748991544" duration="2928000" />
+      <workItem from="1616905910203" duration="4965000" />
+      <workItem from="1616912515883" duration="158000" />
     </task>
     <task id="LOCAL-00001" summary="addProject">
       <created>1613612131324</created>
@@ -268,7 +297,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615637922749</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Add to Adjust Matrix, List">
+      <created>1615903983225</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1615903983225</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -297,7 +333,8 @@
     <MESSAGE value="modified package name" />
     <MESSAGE value="update file" />
     <MESSAGE value="new File" />
-    <option name="LAST_COMMIT_MESSAGE" value="new File" />
+    <MESSAGE value="Add to Adjust Matrix, List" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add to Adjust Matrix, List" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -354,6 +391,41 @@
           <url>file://$PROJECT_DIR$/src/study/baekjoon/Baek15683.java</url>
           <line>40</line>
           <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/LineTest3.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/LineTest4.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ssafy/graph/Dijkstra.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/baekjoon/b0323/Baek1463.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ssafy/dp/DP1_KnapsackTest.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/study/baekjoon/Baek1439.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ssafy/graph/PrimTest.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="135" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.io.WriteAbortedException" package="java.io" />
