@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="17c82ff3-e988-42c1-a59b-64a39a61ec86" name="디폴트 변경 목록" comment="Add to Adjust Matrix, List">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+    <list default="true" id="17c82ff3-e988-42c1-a59b-64a39a61ec86" name="디폴트 변경 목록" comment="Add to File">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/workspace/com/ssafy/graph/G2_AdjListTest$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/workspace/com/ssafy/graph/G2_AdjListTest$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/workspace/com/ssafy/graph/G2_AdjListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/workspace/com/ssafy/graph/G2_AdjListTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ssafy/graph/G2_AdjListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ssafy/graph/G2_AdjListTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/workspace.iml" beforeDir="false" afterPath="$PROJECT_DIR$/workspace.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/study/baekjoon/Baek15683.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/baekjoon/Baek15683.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,9 +75,9 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.Prob1949">
-    <configuration name="Baek1439" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study.baekjoon.Baek1439" />
+  <component name="RunManager" selected="애플리케이션.Baek3085">
+    <configuration name="Baek1018" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.baekjoon.Baek1018" />
       <module name="workspace" />
       <extension name="coverage">
         <pattern>
@@ -93,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baek2225" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study.baekjoon.Baek2225" />
+    <configuration name="Baek3085" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.baekjoon.Baek3085" />
       <module name="workspace" />
       <extension name="coverage">
         <pattern>
@@ -106,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baekjoon17472" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baekjoon.b0326.Baekjoon17472" />
+    <configuration name="JDBCTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JDBCTest.JDBCTest1" />
       <module name="workspace" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="baekjoon.b0326.*" />
+          <option name="PATTERN" value="JDBCTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ssafy.graph.PrimTest" />
+    <configuration name="SWEA5644" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="swea.d0412.SWEA5644" />
       <module name="workspace" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ssafy.graph.*" />
+          <option name="PATTERN" value="swea.d0412.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,37 +128,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Prob1949" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study.swexpertacademy.Prob1949" />
+    <configuration name="SWEA5644_answer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="swea.d0412.SWEA5644_answer" />
       <module name="workspace" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="study.swexpertacademy.*" />
+          <option name="PATTERN" value="swea.d0412.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.Prob1949" />
-        <item itemvalue="애플리케이션.Baek2225" />
-        <item itemvalue="애플리케이션.Baekjoon17472" />
-        <item itemvalue="애플리케이션.PrimTest" />
-        <item itemvalue="애플리케이션.Baek1439" />
+        <item itemvalue="애플리케이션.Baek3085" />
+        <item itemvalue="애플리케이션.Baek1018" />
+        <item itemvalue="애플리케이션.SWEA5644" />
+        <item itemvalue="애플리케이션.SWEA5644_answer" />
+        <item itemvalue="애플리케이션.JDBCTest1" />
       </list>
     </recent_temporary>
   </component>
@@ -219,6 +204,23 @@
       <workItem from="1616748991544" duration="2928000" />
       <workItem from="1616905910203" duration="4965000" />
       <workItem from="1616912515883" duration="158000" />
+      <workItem from="1616973905276" duration="111000" />
+      <workItem from="1616988902200" duration="1817000" />
+      <workItem from="1617001798395" duration="686000" />
+      <workItem from="1617022145531" duration="1019000" />
+      <workItem from="1617083171331" duration="18000" />
+      <workItem from="1617086438129" duration="216000" />
+      <workItem from="1617094945070" duration="1096000" />
+      <workItem from="1617210507851" duration="869000" />
+      <workItem from="1617293143524" duration="1888000" />
+      <workItem from="1617896575338" duration="1358000" />
+      <workItem from="1617928562538" duration="120000" />
+      <workItem from="1617986399593" duration="34000" />
+      <workItem from="1618190025745" duration="55000" />
+      <workItem from="1618190156912" duration="10520000" />
+      <workItem from="1618212829272" duration="4176000" />
+      <workItem from="1618225137461" duration="5728000" />
+      <workItem from="1618244493619" duration="164000" />
     </task>
     <task id="LOCAL-00001" summary="addProject">
       <created>1613612131324</created>
@@ -304,7 +306,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615903983225</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Add to File">
+      <created>1616974006901</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1616974006901</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -334,16 +343,12 @@
     <MESSAGE value="update file" />
     <MESSAGE value="new File" />
     <MESSAGE value="Add to Adjust Matrix, List" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add to Adjust Matrix, List" />
+    <MESSAGE value="Add to File" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add to File" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/ssafy/back/Algorithm_12_식당_풀이.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <condition expression="i == 2" language="JAVA" />
           <url>file://$PROJECT_DIR$/0218/식당테스트.java</url>
@@ -427,18 +432,46 @@
           <line>23</line>
           <option name="timeStamp" value="135" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/study/baekjoon/Baek16968.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/study/baekjoon/Baek9663.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="139" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/swea/d0412/SWEA5644.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="140" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/study/baekjoon/Baek1018.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="145" />
+        </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.io.WriteAbortedException" package="java.io" />
           <option name="timeStamp" value="47" />
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="tmp" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
     <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/workspace$Baek9663.ic" NAME="Baek9663 커버리지 결과" MODIFIED="1617897645453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>study.baekjoon.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/workspace$Baek17413.ic" NAME="Baek17413 커버리지 결과" MODIFIED="1613852697487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>study.baekjoon.*</FILTER>
     </SUITE>
