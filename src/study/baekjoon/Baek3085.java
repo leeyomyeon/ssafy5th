@@ -20,24 +20,28 @@ public class Baek3085 {
         for(int i = 0; i < N; i++) {
             for(int j = 0; j < N; j++) {
                 // 가로
-                char[][] tmp = copyArr();
                 char tmpChar;
                 int horizontal = 0;
                 if(i < N - 1) {
-                    tmpChar = tmp[i][j];
-                    tmp[i][j] = tmp[i + 1][j];
-                    tmp[i + 1][j] = tmpChar;
-                    horizontal = validate(tmp);
+                    tmpChar = arr[i][j];
+                    arr[i][j] = arr[i + 1][j];
+                    arr[i + 1][j] = tmpChar;
+                    horizontal = validate(arr);
+                    tmpChar = arr[i + 1][j];
+                    arr[i + 1][j] = arr[i][j];
+                    arr[i][j] = tmpChar;
                 }
 
                 // 세로
                 int vertical = 0;
                 if(j < N - 1) {
-                    tmp = copyArr();
-                    tmpChar = tmp[i][j];
-                    tmp[i][j] = tmp[i][j + 1];
-                    tmp[i][j + 1] = tmpChar;
-                    vertical = validate(tmp);
+                    tmpChar = arr[i][j];
+                    arr[i][j] = arr[i][j + 1];
+                    arr[i][j + 1] = tmpChar;
+                    vertical = validate(arr);
+                    tmpChar = arr[i][j + 1];
+                    arr[i][j + 1] = arr[i][j];
+                    arr[i][j] = tmpChar;
                 }
 
                 max = Math.max(max, Math.max(horizontal, vertical));
@@ -83,13 +87,5 @@ public class Baek3085 {
         }
 
         return Math.max(horCount, verCount);
-    }
-
-    public static char[][] copyArr() {
-        char[][] tmp = new char[N][N];
-        for(int i = 0; i < N; i++) {
-            System.arraycopy(arr[i], 0, tmp[i], 0, N);
-        }
-        return tmp;
     }
 }
