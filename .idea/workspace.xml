@@ -2,16 +2,49 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17c82ff3-e988-42c1-a59b-64a39a61ec86" name="디폴트 변경 목록" comment="Add to File">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0413/Baek2564.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0414/SWEA5656.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0415/Baek7576.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/workspace/Baek2564$Shop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/workspace/Baek2564.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/workspace/Baek7576$Tomato.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/workspace/Baek7576.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/workspace/SWEA5656.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/workspace/baekjoon/b0414/Baek1194$Location.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/workspace/baekjoon/b0414/Baek1194.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/workspace/baekjoon/b0414/Baek17471.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/workspace/baekjoon/b0415/Baek16973$Position.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/workspace/baekjoon/b0415/Baek16973.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/workspace/baekjoon/b0416/Baek16235$Tree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/workspace/baekjoon/b0416/Baek16235.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/workspace/baekjoon/b0416/Baek16236$Fish.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/workspace/baekjoon/b0416/Baek16236.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/workspace/baekjoon/self/Baek1600$Point.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/workspace/baekjoon/self/Baek1600.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/workspace/baekjoon/self/Baek1926.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/workspace/baekjoon/self/Baek2239.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/workspace/baekjoon/self/Baek2839.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/workspace/study/baekjoon/Baek2178$Direction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/workspace/study/baekjoon/Baek2178.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/workspace/swea/d0412/SWEA4014_answer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/workspace/swea/d0413/SWEA1249.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/workspace/swea/d0413/SWEA1249_pq$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/workspace/swea/d0413/SWEA1249_pq.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/workspace/swea/d0415/SWEA1953$Location.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/workspace/swea/d0415/SWEA1953.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baekjoon/b0414/Baek1194.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baekjoon/b0414/Baek17471.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baekjoon/b0415/Baek16973.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baekjoon/b0416/Baek16235.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baekjoon/b0416/Baek16236.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baekjoon/self/Baek1600.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baekjoon/self/Baek1926.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/baekjoon/Baek2178.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swea/d0412/SWEA4014_answer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swea/d0413/SWEA1249.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swea/d0413/SWEA1249_pq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swea/d0415/SWEA1953.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/workspace/baekjoon/Baekjoon2239.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/workspace/baekjoon/Baekjoon2839.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/workspace/study/baekjoon/Baek3085.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/workspace/study/baekjoon/Baek3085.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/workspace/swea/d0412/SWEA4014.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/workspace/swea/d0412/SWEA4014.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/baekjoon/Baekjoon2239.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/baekjoon/self/Baek2239.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/baekjoon/Baekjoon2839.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/baekjoon/self/Baek2839.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/swea/d0412/SWEA4014.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/swea/d0412/SWEA4014.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/workspace.iml" beforeDir="false" afterPath="$PROJECT_DIR$/workspace.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,15 +176,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -242,6 +273,8 @@
       <workItem from="1618457811166" duration="60000" />
       <workItem from="1618457892163" duration="12559000" />
       <workItem from="1618532760446" duration="21851000" />
+      <workItem from="1618725655184" duration="403000" />
+      <workItem from="1618742791032" duration="434000" />
     </task>
     <task id="LOCAL-00001" summary="addProject">
       <created>1613612131324</created>
@@ -334,7 +367,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616974006901</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Add to File">
+      <created>1618725679253</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1618725679253</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
