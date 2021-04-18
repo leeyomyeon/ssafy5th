@@ -40,35 +40,29 @@ public class SWEA4014 {
         }
     }
     // 방향(상하01 / 좌우23)
-    static int[] hp = {-(X-1), (X-1)};
-    static int[] vq = {-(X-1), (X-1)};
-    static void executeHorizontal(int k) {
-    
-    }
-    static void executeVertical(int k) {
-
-    }
-/*
     static void executeHorizontal(int k) {  // 가로 탐색
         // 한줄복사
         int[] tmpArr = new int[N];
         System.arraycopy(arr[k], 0, tmpArr, 0, N);
         boolean[] visited = new boolean[N];
 
+        for(int i = 0; i <= N - X; i++) {
+            for(int j = i + X; j <= N - X; j++) {
+                if(tmpArr[i] == max || tmpArr[j] == max) {
+                    continue;
+                }
+            }
+        }
+
         for(int i = 0; i < N; i++) {
             if(arr[k][i] == max) {
                 continue;
             }
             int nk = k;
-            for(int j = 0; j < 2; j++) {
-                nk += hp[j];
 
-                // 범위 벗어나거나 경사로의 시작칸과 끝칸의 크기가 다르거나 경사로가 설치된경우
-                if(nk < 0 || nk >= N || (arr[nk][i] != arr[k][i]) || visited[i]) {
-                    continue;
-                }
-
-
+            // 범위 벗어나거나 경사로의 시작칸과 끝칸의 크기가 다르거나 경사로가 설치된경우
+            if(nk < 0 || nk >= N || (arr[nk][i] != arr[k][i]) || visited[i]) {
+                continue;
             }
         }
     }
@@ -86,15 +80,20 @@ public class SWEA4014 {
                 continue;
             }
             int nk = k;
-            for(int j = 0; j < 2; j++) {
-                nk += vq[j];
-                if(nk < 0 || nk >= N || (arr[i][nk] != arr[i][k]) || visited[i]) {    // 범위 벗어나거나 경사로의 시작칸과 끝칸의 크기가 다르면
-                    continue;
-                }
-
+            if(nk < 0 || nk >= N || (arr[i][nk] != arr[i][k]) || visited[i]) {    // 범위 벗어나거나 경사로의 시작칸과 끝칸의 크기가 다르면
+                continue;
             }
+
         }
     }
-
- */
 }
+
+/*
+1. 가로 분할(행 고정) 활주로 건설 가능 체크 및 카운팅
+2. 세로 분할(열 고정) 활주로 건설 가능 체크 및 카운팅
+3. 높이 비교
+이전 높이 == 현재 높이  연속 동일 높이 카운팅 관리
+이전 높이 + 1 == 현재높이 -> 오르막    연속 동일 높이 카운팅 이용 경사로 사용 체크
+이전 높이 - 1 == 현재 높이 -> 내리막   현위치 앞으로 쭉 연속 동일 높이 계산 경사로 사용 체크
+나머지 상황 -> 활주로 건설 불가
+ */

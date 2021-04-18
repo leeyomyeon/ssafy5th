@@ -26,6 +26,9 @@
       <sourceFolder url="file://$MODULE_DIR$/0318" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/0323" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/0324" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0413" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0414" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0415" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

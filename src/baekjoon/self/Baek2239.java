@@ -1,10 +1,10 @@
-package baekjoon;
+package baekjoon.self;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class Baekjoon2239 {
+public class Baek2239 {
     static char[][] arr;
     static boolean[] numCheck;
     public static void main(String[] args) throws Exception {

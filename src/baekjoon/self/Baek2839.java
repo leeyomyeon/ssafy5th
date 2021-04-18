@@ -1,8 +1,8 @@
-package baekjoon;
+package baekjoon.self;
 
 import java.util.Scanner;
 
-public class Baekjoon2839 {
+public class Baek2839 {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		

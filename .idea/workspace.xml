@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17c82ff3-e988-42c1-a59b-64a39a61ec86" name="디폴트 변경 목록" comment="Add to File">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/study/baekjoon/Baek15683.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/study/baekjoon/Baek15683.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/workspace/baekjoon/Baekjoon2239.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/workspace/baekjoon/Baekjoon2839.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/workspace/study/baekjoon/Baek3085.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/workspace/study/baekjoon/Baek3085.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/workspace/swea/d0412/SWEA4014.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/workspace/swea/d0412/SWEA4014.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baekjoon/Baekjoon2239.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/baekjoon/self/Baek2239.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baekjoon/Baekjoon2839.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/baekjoon/self/Baek2839.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/swea/d0412/SWEA4014.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/swea/d0412/SWEA4014.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/workspace.iml" beforeDir="false" afterPath="$PROJECT_DIR$/workspace.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,13 +83,13 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.Baek3085">
-    <configuration name="Baek1018" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study.baekjoon.Baek1018" />
+  <component name="RunManager" selected="애플리케이션.Baek1600">
+    <configuration name="Baek1600" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon.self.Baek1600" />
       <module name="workspace" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="study.baekjoon.*" />
+          <option name="PATTERN" value="baekjoon.self.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Baek3085" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study.baekjoon.Baek3085" />
+    <configuration name="Baek16235" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon.b0416.Baek16235" />
       <module name="workspace" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="study.baekjoon.*" />
+          <option name="PATTERN" value="baekjoon.b0416.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JDBCTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JDBCTest.JDBCTest1" />
+    <configuration name="Baek16236" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon.b0416.Baek16236" />
       <module name="workspace" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JDBCTest.*" />
+          <option name="PATTERN" value="baekjoon.b0416.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SWEA5644" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="swea.d0412.SWEA5644" />
+    <configuration name="Baek16973" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon.b0415.Baek16973" />
       <module name="workspace" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="swea.d0412.*" />
+          <option name="PATTERN" value="baekjoon.b0415.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,15 +136,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SWEA5644_answer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="swea.d0412.SWEA5644_answer" />
+    <configuration name="Baek7576" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baek7576" />
       <module name="workspace" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="swea.d0412.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -156,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.Baek3085" />
-        <item itemvalue="애플리케이션.Baek1018" />
-        <item itemvalue="애플리케이션.SWEA5644" />
-        <item itemvalue="애플리케이션.SWEA5644_answer" />
-        <item itemvalue="애플리케이션.JDBCTest1" />
+        <item itemvalue="애플리케이션.Baek1600" />
+        <item itemvalue="애플리케이션.Baek16236" />
+        <item itemvalue="애플리케이션.Baek16235" />
+        <item itemvalue="애플리케이션.Baek16973" />
+        <item itemvalue="애플리케이션.Baek7576" />
       </list>
     </recent_temporary>
   </component>
@@ -234,6 +236,12 @@
       <workItem from="1618212829272" duration="4176000" />
       <workItem from="1618225137461" duration="5728000" />
       <workItem from="1618244493619" duration="164000" />
+      <workItem from="1618360962527" duration="5895000" />
+      <workItem from="1618367194847" duration="10839000" />
+      <workItem from="1618413407060" duration="9622000" />
+      <workItem from="1618457811166" duration="60000" />
+      <workItem from="1618457892163" duration="12559000" />
+      <workItem from="1618532760446" duration="21851000" />
     </task>
     <task id="LOCAL-00001" summary="addProject">
       <created>1613612131324</created>
@@ -374,11 +382,6 @@
           <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/study/baekjoon/Baek17413.java</url>
-          <line>42</line>
-          <option name="timeStamp" value="38" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/study/baekjoon/Baek8320.java</url>
           <line>22</line>
           <option name="timeStamp" value="42" />
@@ -461,9 +464,35 @@
           <option name="timeStamp" value="140" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/study/baekjoon/Baek1018.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="145" />
+          <url>file://$PROJECT_DIR$/0413/Baek2564.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="154" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="!visited[1] &amp;&amp; !visited[4] &amp;&amp; !visited[3]" language="JAVA" />
+          <url>file://$PROJECT_DIR$/src/baekjoon/b0414/Baek17471.java</url>
+          <line>79</line>
+          <option name="timeStamp" value="155" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/baekjoon/b0414/Baek1194.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="158" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/swea/d0415/SWEA1953.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="161" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/baekjoon/b0416/Baek16235.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="169" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/baekjoon/b0416/Baek16236.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="170" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.io.WriteAbortedException" package="java.io" />
@@ -473,7 +502,7 @@
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
-        <watch expression="tmp" language="JAVA" />
+        <watch expression="visited" language="JAVA" />
       </configuration>
     </watches-manager>
   </component>
@@ -484,6 +513,9 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/workspace$Baek9663.ic" NAME="Baek9663 커버리지 결과" MODIFIED="1617897645453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>study.baekjoon.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/workspace$SWEA1953.ic" NAME="SWEA1953 커버리지 결과" MODIFIED="1618467855670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>swea.d0415.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/workspace$Baek17413.ic" NAME="Baek17413 커버리지 결과" MODIFIED="1613852697487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>study.baekjoon.*</FILTER>
