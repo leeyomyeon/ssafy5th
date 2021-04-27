@@ -21,10 +21,7 @@ public class Baek2812 {
         char[] arr = num.toCharArray();
 
         for (char c : arr) {
-            while (true) {
-                if (K <= 0 || deque.isEmpty() || c <= deque.getLast()) {
-                    break;
-                }
+            while (K > 0 && !deque.isEmpty() && c > deque.getLast()) {
                 deque.removeLast();
                 K--;
             }
