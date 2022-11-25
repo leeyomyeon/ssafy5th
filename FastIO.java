@@ -152,5 +152,13 @@ public class FastIO {
                 size--;
             }
         }
+        
+        public int nextCharToInt() throws IOException {
+            byte c = read();
+            if(c == '\n') {
+                c = read();
+            }
+            return c - 'A';
+        }
     }
 }
