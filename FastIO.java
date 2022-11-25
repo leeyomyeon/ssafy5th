@@ -112,5 +112,45 @@ public class FastIO {
             }
             return buffer[bufferPointer++];
         }
+        
+        public static void fastNumberWrite(int current) throws Exception {
+            boolean abs = current < 0;
+            if (abs) {
+                current *= -1;
+                bw.write(45);
+            }
+            int size = current == 0 ? 0 : (int) Math.log10(current);
+            while (size >= 0) {
+                int nextSize = current == 0 ? 0 : (int) Math.log10(current);
+                int div = (int) Math.pow(10, nextSize);
+                while (size > nextSize) {
+                    bw.write(48);
+                    size--;
+                }
+                bw.write((current / div) + 48);
+                current %= div;
+                size--;
+            }
+        }
+
+        public static void fastNumberWrite(long current) throws Exception {
+            boolean abs = current < 0;
+            if (abs) {
+                current *= -1;
+                bw.write(45);
+            }
+            int size = current == 0 ? 0 : (int) Math.log10(current);
+            while (size >= 0) {
+                int nextSize = current == 0 ? 0 : (int) Math.log10(current);
+                long div = (int) Math.pow(10, nextSize);
+                while (size > nextSize) {
+                    bw.write(48);
+                    size--;
+                }
+                bw.write((int) ((current / div) + 48));
+                current %= div;
+                size--;
+            }
+        }
     }
 }
